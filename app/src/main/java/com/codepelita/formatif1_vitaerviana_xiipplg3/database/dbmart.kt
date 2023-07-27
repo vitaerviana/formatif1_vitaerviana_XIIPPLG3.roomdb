@@ -21,7 +21,7 @@ abstract class dbmart: RoomDatabase() {
         }
 
         private fun buildDatabase(context: Context) = Room.databaseBuilder(
-            context.applicationContext, dbmart::class.java, "cobaxirpl3.db"
+            context.applicationContext, dbmart::class.java, "sa_mart"
         ).fallbackToDestructiveMigration().build()
 
     }

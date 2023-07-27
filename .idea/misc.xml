@@ -11,9 +11,12 @@
         <entry key="..\:/vita/vitaformatif1/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1" />
         <entry key="..\:/vita/vitaformatif1/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1" />
         <entry key="..\:/vita/vitaformatif1/app/src/main/res/drawable/ic_twotone_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/vita/vitaformatif1/app/src/main/res/layout/activity_adapter.xml" value="0.1" />
         <entry key="..\:/vita/vitaformatif1/app/src/main/res/layout/activity_input_barang.xml" value="0.22" />
         <entry key="..\:/vita/vitaformatif1/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/vita/vitaformatif1/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/vita/vitaformatif1/app/src/main/res/layout/adapter.xml" value="0.25" />
+        <entry key="..\:/vita/vitaformatif1/app/src/main/res/layout/adapteractivity.xml" value="0.22" />
       </map>
     </option>
   </component>
